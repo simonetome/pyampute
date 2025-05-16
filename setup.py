@@ -31,7 +31,7 @@ setup(
     },
     project_urls={
         "Documentation": "https://rianneschouten.github.io/pyampute/build/html/index.html",
-        "Source Code": "https://github.com/RianneSchouten/pyampute",
+        "Source Code": "https://github.com/simonetome/pyampute",
     },
     license="BSD",
 )
